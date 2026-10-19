@@ -26,7 +26,7 @@ The folder name must match the title ID of your game.
 
 v3 is a complete patch.
 You do not need earlier patches.
-The game data is the same as the checked v0.5.5 build.
+The game data is the same as the v0.5.5 build.
 
 ## Requirements
 
